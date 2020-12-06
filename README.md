@@ -8,4 +8,4 @@ Market indices often contain a large number of securities. This script takes in 
 # How to run:
 python3 approximate_index.py [n] [symbol of index to approximate] [historical prices csv] > [results csv]
 
-Examoke: C:/Users/Alan/AppData/Local/Programs/Python/Python38/python.exe c:/Users/Alan/Documents/Code/approximate_index.py 3 .DJI historical_prices.csv > approximation.csv
+Example: C:/Users/Alan/AppData/Local/Programs/Python/Python38/python.exe c:/Users/Alan/Documents/Code/approximate_index.py 3 .DJI historical_prices.csv > approximation.csv
