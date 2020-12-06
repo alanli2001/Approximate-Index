@@ -5,5 +5,5 @@ Market indices often contain a large number of securities. This script takes in 
 
 ![alt text](https://github.com/alanli2001/Approximate-Index/blob/main/SampleResult.png?raw=true)
 
-# Running
+# How to run:
 C:/Users/Alan/AppData/Local/Programs/Python/Python38/python.exe c:/Users/Alan/Documents/Code/approximate_index.py 3 .DJI historical_prices.csv > approximation.csv
